@@ -1,0 +1,8 @@
+06/06/2023 23:43:41 Autenticação Inválida!
+06/06/2023 23:43:58 Autenticação Inválida!
+06/06/2023 23:44:05 Autenticação Inválida!
+06/06/2023 23:53:08 Autenticação Inválida!
+06/06/2023 23:53:19 Autenticação Inválida!
+06/06/2023 23:55:15 Autenticação Inválida!
+07/06/2023 00:00:55 O Usuário fez login!
+07/06/2023 00:02:15 O Usuário fez login!
